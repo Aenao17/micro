@@ -1,4 +1,4 @@
-package com.readingclub.book;
+package asp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
