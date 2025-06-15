@@ -1,0 +1,4 @@
+# Project exclude paths
+/book-service/.gradle/
+/gateway-service/.gradle/
+/member-service/.gradle/
